@@ -1,0 +1,61 @@
+.haeder{
+    border: 5px dotted rgb(163, 0, 33);
+    background-color:white;
+    border-radius: 35px;
+    box-shadow: 0 25px 20px -20px rgba(0, 0, 0, 0.4);
+    height: 50px;
+    width: 1000px;
+    margin: -800px 150px;
+    position: fixed;
+   
+
+
+}
+.hamza1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    float: left;
+    
+}
+a{
+   font-size: large;
+   display: inline-block;
+    margin: 15px 75px;
+    text-decoration: wavy;
+    color: rgb(173, 194, 233)
+}
+a:hover{
+    background-color: cadetblue;
+    border: 4px dotted white;
+    border-radius: 30px;
+   margin: 0px 75px ;
+    padding: 2px;
+}
+.hhaa{
+    width: 1324px;
+    height: 800px;
+   background-image: url(iStock-1145250337-1.jpg) ;
+   
+   filter: blur(5px);
+}
+p{
+    color:cornsilk; position: absolute; top: 30%; width: 95%; text-align: center; font-size: 2rem; right: 35px; font-size: 3.5vmax;
+}
+.my3{
+    color:cornsilk; position: absolute; top: 10%; width: 95%; text-align: center; font-size: 2rem; right: 70px; font-size: 4vmax;
+}
+.my{
+    color:rgb(148, 0, 30); position: absolute; top: 16%; width: 95%; text-align: center; font-size: 2rem; left: 180px; font-size: 5vmax;
+}
+
+.can{
+    color: crimson;
+}
+.can:hover{
+    background-color: crimson;
+    color: white;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 0px 75px ;
+}
